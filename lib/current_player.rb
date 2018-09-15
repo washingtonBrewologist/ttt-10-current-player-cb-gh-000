@@ -1,10 +1,6 @@
 def turn_count(board)
-  index = board.size
-  counter = 0
-  loop do
-    if counter < index
-      count -= 1
-      puts "#{counter}"
-    end
+board = [" "," "," "," "," "," "," "," "," ",]
+board.each do |turn|
+  puts "#{turn.length}"
   end
 end
