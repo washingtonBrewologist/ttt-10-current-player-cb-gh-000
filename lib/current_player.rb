@@ -5,5 +5,6 @@ board.each do |index|
     counter += 1
     puts "Number of turns remaining: #{counter}"
     return counter
+    end
   end
 end
