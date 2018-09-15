@@ -4,3 +4,4 @@ def turn_count(board)
   turns.each do |turn|
     puts "#{turn}"
   end
+end
