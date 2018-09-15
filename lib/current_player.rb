@@ -8,4 +8,3 @@ board.each do |index|
     end
   end
 end
-turn_count(board)
