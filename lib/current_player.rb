@@ -3,6 +3,6 @@ counter = 0
 index = board.size
 if board[index] != " "
   counter += 1
-  return counter
+  return index
   end
 end
