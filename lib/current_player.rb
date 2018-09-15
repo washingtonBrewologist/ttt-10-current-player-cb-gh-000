@@ -6,3 +6,4 @@ def turn_count(board)
     puts "#{turn}"
   end
 end
+turn_count()
