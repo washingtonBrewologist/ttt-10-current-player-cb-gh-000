@@ -6,5 +6,6 @@ def turn_count(board)
     if counter < index
       count -= 1
       puts "#{counter}"
+    end
   end
 end
