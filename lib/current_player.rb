@@ -1,3 +1,4 @@
+board = [" "," "," "," "," "," "," "," "," ",]
 def turn_count(board)
 counter = 9
 board.each do |index|
